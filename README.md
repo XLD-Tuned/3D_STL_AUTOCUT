@@ -5,7 +5,7 @@
 
 ## 下載
 
-到 [Releases](https://github.com/XLD-Tuned/3D_STL_AUTOCUT/releases/latest) 下載 `PrintSplit_XLD-Tuned離線版-安裝版-x.x.x.exe`，執行後依照畫面安裝即可。
+到 [Releases](https://github.com/XLD-Tuned/3D_STL_AUTOCUT/releases/latest) 下載 `PrintSplit_XLD-Tuned-Offline-Setup-x.x.x.exe`（安裝版），執行後依照畫面安裝即可。
 
 > 程式沒有數位簽章，第一次執行時 Windows 可能會跳出藍色的 SmartScreen 警告，
 > 點「**其他資訊**」→「**仍要執行**」即可。
